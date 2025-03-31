@@ -156,7 +156,7 @@ function performAction(value) {
 
   // Check if input is "Superman"
   if (input.value === "Superman") {
-    window.location.href = "bday.html"; // Redirect to bday.html
+    window.location.href = "https://codepen.io/Ajbaad/full/dPyQyyQ"; // Redirect to bday.html
     return; // Exit the function to prevent further processing
   }
 
