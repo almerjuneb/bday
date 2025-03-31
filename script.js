@@ -247,7 +247,7 @@ function performAction(value) {
         // Redirect to bday.html
       S.UI.simulate('Hey Gorgeous!|Happy Birthday!');
          setTimeout(function() {
-      window.location.href = "bday/index.html";  // Then redirect to bday.html
+      window.location.href = "https://codepen.io/Ajbaad/full/dPyQyyQ";  // Then redirect to bday.html
     }, 5000);  // 1 second delay before redirect
     return;
       } else {
